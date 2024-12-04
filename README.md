@@ -1,2 +1,4 @@
 # COE-101.2_LABORATORY-14
-Submission for Laboratory 14 Activity
+This repository is inteded for the submission for Laboratory 14 Activity, in order to check and test the code.
+
+Thank you.
